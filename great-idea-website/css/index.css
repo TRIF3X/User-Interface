@@ -64,3 +64,130 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body .nav-section {	
+	height: 80px;
+	width: 1520px;	
+}
+body .nav-section nav {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-bottom: 10px;
+	margin-left: 150px;
+	text-align: center;
+	word-spacing: 130px;
+	color: grey;	
+}
+body section .logo {
+	display: inline-block;
+	margin-left: 150px;
+	margin-right: 20px;
+	margin-top: 20px;	
+}
+body .top-section{	
+	display: inline-block;
+	width: 1520px;
+	height: 450px;
+	border-bottom: 1px solid black;
+}
+body .top-section .main {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-bottom: 150px;
+	margin-left: 296px;
+	padding-top: 110px;
+	padding-right: 90px;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+	font-size: 60px;
+}
+body .top-section .img-1 {
+	display: inline-block;
+	margin-left: 150px;
+	margin-right: 20px;
+	padding-bottom: 85px;
+	padding-left: 200px;
+	
+}
+body .top-section .main .get-started {
+	border: 1px solid black;
+	font-size: 20px;
+	display: inline;
+	padding: 0 40px;
+}
+body .center-page-top {
+	display: inline-block;
+	width: 1520px;
+	height: 100px;
+	
+}
+body .center-page-top .one {
+	display: inline-block;
+	margin-left: 100px;
+	text-align: left;
+	font-size: 24px;
+}
+body .center-page-top .two {
+	display: inline-block;
+	margin-left: 30px;
+	text-align: left;
+	font-size: 24px;
+}
+body .center-page-top .one b {
+	font-weight: bold;
+}	
+body .center-page-top .two b {
+	font-weight: bold;
+}	
+body .middle-img {
+	display: inline-block;
+	width: 1300px;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+body .center-page-bottom .three b {
+	font-weight: bold;
+}	
+body .center-page-bottom .four b {
+	font-weight: bold;
+}	
+body .center-page-bottom .five b {
+	font-weight: bold;
+}	
+body .center-page-bottom .three  {
+	display: inline-block;
+	margin-left: 100px;
+	text-align: left;
+	font-size: 24px;
+	margin-bottom: 50px;
+}	
+body .center-page-bottom .four  {
+	display: inline-block;
+	margin-left: 30px;
+	text-align: left;
+	font-size: 24px;
+	margin-bottom: 50px;
+}	
+body .center-page-bottom .five  {
+	display: inline-block;
+	margin-left: 30px;
+	text-align: left;
+	font-size: 24px;
+	margin-bottom: 50px;
+}	
+body .center-page-bottom {
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+body .footer b {
+	font-weight: bold;
+}
+body .footer {
+	font-size: 24px;
+}
+body .copy-right {
+	display: inline-block;
+	margin-left: 700px;
+	
+}
